@@ -1,6 +1,6 @@
 p {color:green;
 }
- body {
+ h1 {
             font-family: Arial, sans-serif;
             max-width: 800px;
             margin: auto;
@@ -9,12 +9,12 @@ p {color:green;
         header, nav, main, section, footer {
             margin-bottom: 20px;
         }
-        nav a {
+        h2 {
             margin-right: 10px;
             text-decoration: none;
             color: #333;
         }
-        jpeg {
+        img {
             width: 100%;
             max-width: 300px;
             display: block;
