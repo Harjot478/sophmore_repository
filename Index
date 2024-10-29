@@ -5,6 +5,79 @@
 p {color:green;
 }
 
+<img src="wdwd.jpeg" alt="Image description" />
+    <p>[Public Domain CC]</p>
+    <link rel="stylesheet" href="new.css">
+
+    <h1>Alana's Marketing Portfolio</h1>
+    
+    
+    <strong>
+  
+    
+    <p>Recent graduate of Boston University, Class of 2022, with a major in marketing.</p>
+    
+    <h3>Work Experience</h3>
+    
+    <ul>
+ 
+      <li>Social Media Intern at Trendsetters Agency (June 2021-August 2021)</li>
+      
+      <p> Managed and grew the company's presence on Instagram and Facebook, achieving a 20% increase in followers.</p>
+      
+      <li>Retail Sales associate at Fashion Forward Boutique (September 2020- May 2021)</li>
+      
+      <p>Awarded "Employee of the Month" twice for outstanding customer service and exceeding sales target.</p>
+      
+      <li>Customer Service Representative at Helpdesk Inc. (June 2020-August 2020)</li>
+      
+      <p>Resolved over 500 customer isues, maintained a 95% satisfaction rating, amd developed a FAQ section for the website.</p>
+      
+    </ul>
+    
+    <h3>Projects and Campaigns</h3>
+    
+      <ul>
+      <li>Instagram Growth Campaign at Trendsetters Agency developed a content strategy that increased followed engagement by 20% and gained 2,000 new followers in 2 months.
+      </li>
+      </ul>
+      <ul>
+      <li> Winter Sales Campaign at Fashion Forward Boutique</li>
+      <p>Cordinated a succesfull sales campaign that increased revenue by 25% over the previous year.</p>
+      
+      <li>Customer Feedback Initaitve at HelpDesk Inc.</li>
+      
+      <p>Implemented a customer feedback system that led to the identification and resolution of three major product bugs.<p>
+  
+      </ul>
+      
+    
+    <h3>Skills and Certifications</h3>
+    <ul>
+      <li>Digital Marketing Professional Cerification from the Digital Marketing institute</li>
+      
+      <li>Proficient in social media marketing, content creation, and engagement analysis</li>
+    </ul>
+    <ul>
+      <h3>Awards and Recoginiton</h3>
+      </ul>
+    <ul>
+      <p>Dean's list at Boston University for four semesters (Fall 2019, Spring 2020, Fall 2020, and Spring 2021)</p>
+    </ul>
+      
+      <h3>Contacts</h3>
+      
+      <p>Can be reached via email at alana.marketingpro@gmail.com or on LinkedIn at
+        linkedin.com/in/alana-marketingpro for further discussions or opportunities.</p>
+    
+    
+
+        
+      </strong>
+    
+    
+    
+    
 
 
 body {background-color: pink;,
