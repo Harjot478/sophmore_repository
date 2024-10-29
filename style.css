@@ -1,7 +1,4 @@
 
-background {color:purple;
-           }
-
 
 p {color:green;
 }
@@ -25,3 +22,6 @@ p {color:green;
             display: block;
             margin-bottom: 10px;
         }
+
+body {background-color: pink;,
+} 
