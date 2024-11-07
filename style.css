@@ -19,8 +19,8 @@ p {color:white;
             color:white;
         }
         img {
-            width: 100;
-            max-width: 300;
+            width: 100%;
+            max-width: 300px;
             display: block;
             margin-bottom: 10;
         }
