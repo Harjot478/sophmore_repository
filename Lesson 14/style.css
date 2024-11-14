@@ -33,7 +33,56 @@
 
 /* layout for planning comic pages images and information */
 
+/* General Flex container styling */
+.flex-container {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
 
+/* Styling for image gallery */
+.image-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+.image-gallery img {
+  width: 150px;
+  height: auto;
+  box-shadow: 3px 3px #333;
+}
+
+/* Image citation styling */
+.image-citation {
+  font-style: italic;
+  text-align: center;
+  margin-top: 5px;
+}
+
+/* Styling for protagonist section */
+.protagonist-section {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.protagonist-image img {
+  max-width: 200px;
+}
+
+.protagonist-info {
+  max-width: 400px;
+  font-size: 1em;
+}
+
+/* Adjusting publishing layout */
+.publishing-images {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}
 /* layout for image and information within planning container */
 
 
